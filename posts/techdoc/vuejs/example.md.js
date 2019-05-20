@@ -1,1 +1,1 @@
-webpackJsonp([4],{478:function(e,t){e.exports={content:["article",["h2","vuejs"],["ul",["li",["p",".................."]]]],meta:{title:"vuejs",publishDate:"2018-12-06T00:00:00.000Z",category:"vuejs",abstract:"vuejs",filename:"posts/techdoc/vuejs/example.md"}}}});
+webpackJsonp([4],{483:function(e,t){e.exports={content:["article",["h2","vuejs"],["ul",["li",["p",".................."]]]],meta:{title:"vuejs",publishDate:"2018-12-06T00:00:00.000Z",category:"vuejs",abstract:"vuejs",filename:"posts/techdoc/vuejs/example.md"}}}});
