@@ -1,1 +1,1 @@
-webpackJsonp([12],{475:function(t,e){t.exports={content:["article",["h2","html"],["ul",["li",["p",".................."]]]],meta:{title:"html",publishDate:"2018-12-06T00:00:00.000Z",category:"html",abstract:"html",filename:"posts/techdoc/html/example.md"}}}});
+webpackJsonp([12],{476:function(t,e){t.exports={content:["article",["h2","html"],["ul",["li",["p",".................."]]]],meta:{title:"html",publishDate:"2018-12-06T00:00:00.000Z",category:"html",abstract:"html",filename:"posts/techdoc/html/example.md"}}}});

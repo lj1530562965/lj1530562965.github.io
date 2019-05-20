@@ -1,1 +1,1 @@
-webpackJsonp([25],{462:function(o,t){o.exports={content:["article",["h2","commontool"],["ul",["li",["p",".................."]]]],meta:{title:"commontool",publishDate:"2018-12-06T00:00:00.000Z",category:"commontool",abstract:"commontool",filename:"posts/commontool/example.md"}}}});
+webpackJsonp([26],{462:function(o,t){o.exports={content:["article",["h2","commontool"],["ul",["li",["p",".................."]]]],meta:{title:"commontool",publishDate:"2018-12-06T00:00:00.000Z",category:"commontool",abstract:"commontool",filename:"posts/commontool/example.md"}}}});

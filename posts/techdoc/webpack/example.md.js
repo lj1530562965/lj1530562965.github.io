@@ -1,1 +1,1 @@
-webpackJsonp([3],{484:function(e,a){e.exports={content:["article",["h2","webpack"],["ul",["li",["p",".................."]]]],meta:{title:"webpack",publishDate:"2018-12-06T00:00:00.000Z",category:"webpack",abstract:"webpack",filename:"posts/techdoc/webpack/example.md"}}}});
+webpackJsonp([3],{485:function(e,a){e.exports={content:["article",["h2","webpack"],["ul",["li",["p",".................."]]]],meta:{title:"webpack",publishDate:"2018-12-06T00:00:00.000Z",category:"webpack",abstract:"webpack",filename:"posts/techdoc/webpack/example.md"}}}});
