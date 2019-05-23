@@ -1,0 +1,1 @@
+webpackJsonp([24],{466:function(o,t){o.exports={content:["article",["h2","photoshop"],["ul",["li",["p",".................."]]]],meta:{title:"photoshop",publishDate:"2018-12-06T00:00:00.000Z",abstract:"photoshop",filename:"posts/category1/photoshop/example.md"}}}});
