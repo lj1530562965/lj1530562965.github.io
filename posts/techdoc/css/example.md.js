@@ -1,1 +1,0 @@
-webpackJsonp([13],{469:function(s,t){s.exports={content:["article",["h2","css"],["ul",["li",["p",".................."]]]],meta:{title:"css",publishDate:"2018-12-06T00:00:00.000Z",category:"css",abstract:"css",filename:"posts/techdoc/css/example.md"}}}});
