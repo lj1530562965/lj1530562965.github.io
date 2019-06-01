@@ -1,1 +1,0 @@
-webpackJsonp([5],{496:function(e,i){e.exports={content:["article",["h2","ui-design"],["ul",["li",["p",".................."]]]],meta:{title:"ui-design",publishDate:"2018-12-06T00:00:00.000Z",abstract:"ui-design",filename:"posts/category2/ui-design/example.md"}}}});

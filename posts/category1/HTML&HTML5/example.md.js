@@ -1,1 +1,0 @@
-webpackJsonp([40],{461:function(t,e){t.exports={content:["article",["h2","html"],["ul",["li",["p",".................."]]]],meta:{title:"html",publishDate:"2018-12-06T00:00:00.000Z",abstract:"html",filename:"posts/category1/HTML&HTML5/example.md"}}}});
