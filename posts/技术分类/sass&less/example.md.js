@@ -1,1 +1,1 @@
-webpackJsonp([20],{477:function(s,e){s.exports={content:["article",["h2","sass&less"],["ul",["li",["p",".................."]]]],meta:{title:"sass&less",publishDate:"2018-12-06T00:00:00.000Z",abstract:"sass&less",filename:"posts/\u6280\u672f\u5206\u7c7b/sass&less/example.md"}}}});
+webpackJsonp([21],{477:function(s,e){s.exports={content:["article",["h2","sass&less"],["ul",["li",["p",".................."]]]],meta:{title:"sass&less",publishDate:"2018-12-06T00:00:00.000Z",abstract:"sass&less",filename:"posts/\u6280\u672f\u5206\u7c7b/sass&less/example.md"}}}});
